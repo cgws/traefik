@@ -7,11 +7,11 @@ import (
 	"time"
 
 	"github.com/cenkalti/backoff/v4"
-	"github.com/containous/traefik/v2/pkg/config/dynamic"
-	"github.com/containous/traefik/v2/pkg/job"
-	"github.com/containous/traefik/v2/pkg/log"
-	"github.com/containous/traefik/v2/pkg/provider"
-	"github.com/containous/traefik/v2/pkg/safe"
+	"github.com/cgws/traefik/v2/pkg/config/dynamic"
+	"github.com/cgws/traefik/v2/pkg/job"
+	"github.com/cgws/traefik/v2/pkg/log"
+	"github.com/cgws/traefik/v2/pkg/provider"
+	"github.com/cgws/traefik/v2/pkg/safe"
 	rancher "github.com/rancher/go-rancher-metadata/metadata"
 )
 

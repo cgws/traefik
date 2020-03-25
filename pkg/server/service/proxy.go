@@ -10,9 +10,9 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/containous/traefik/v2/pkg/config/dynamic"
-	"github.com/containous/traefik/v2/pkg/log"
-	"github.com/containous/traefik/v2/pkg/types"
+	"github.com/cgws/traefik/v2/pkg/config/dynamic"
+	"github.com/cgws/traefik/v2/pkg/log"
+	"github.com/cgws/traefik/v2/pkg/types"
 )
 
 // StatusClientClosedRequest non-standard HTTP status code for client disconnection

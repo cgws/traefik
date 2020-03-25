@@ -5,7 +5,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/containous/traefik/v2/pkg/log"
+	"github.com/cgws/traefik/v2/pkg/log"
 	"k8s.io/apimachinery/pkg/runtime"
 	"k8s.io/client-go/kubernetes/scheme"
 )

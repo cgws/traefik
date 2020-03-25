@@ -4,8 +4,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/containous/traefik/v2/pkg/config/dynamic"
-	"github.com/containous/traefik/v2/pkg/log"
+	"github.com/cgws/traefik/v2/pkg/config/dynamic"
+	"github.com/cgws/traefik/v2/pkg/log"
 )
 
 // Status of the router/service

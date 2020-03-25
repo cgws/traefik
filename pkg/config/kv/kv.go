@@ -5,7 +5,7 @@ import (
 	"reflect"
 
 	"github.com/abronan/valkeyrie/store"
-	"github.com/containous/traefik/v2/pkg/config/parser"
+	"github.com/cgws/traefik/v2/pkg/config/parser"
 )
 
 // Decode decodes the given KV pairs into the given element.

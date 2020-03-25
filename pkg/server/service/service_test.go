@@ -7,10 +7,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/containous/traefik/v2/pkg/config/dynamic"
-	"github.com/containous/traefik/v2/pkg/config/runtime"
-	"github.com/containous/traefik/v2/pkg/server/provider"
-	"github.com/containous/traefik/v2/pkg/testhelpers"
+	"github.com/cgws/traefik/v2/pkg/config/dynamic"
+	"github.com/cgws/traefik/v2/pkg/config/runtime"
+	"github.com/cgws/traefik/v2/pkg/server/provider"
+	"github.com/cgws/traefik/v2/pkg/testhelpers"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

@@ -12,9 +12,9 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/containous/traefik/v2/pkg/log"
-	"github.com/containous/traefik/v2/pkg/middlewares/accesslog"
-	"github.com/containous/traefik/v2/pkg/safe"
+	"github.com/cgws/traefik/v2/pkg/log"
+	"github.com/cgws/traefik/v2/pkg/middlewares/accesslog"
+	"github.com/cgws/traefik/v2/pkg/safe"
 )
 
 // Mirroring is an http.Handler that can mirror requests.

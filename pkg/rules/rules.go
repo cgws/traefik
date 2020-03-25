@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/containous/traefik/v2/pkg/log"
-	"github.com/containous/traefik/v2/pkg/middlewares/requestdecorator"
+	"github.com/cgws/traefik/v2/pkg/log"
+	"github.com/cgws/traefik/v2/pkg/middlewares/requestdecorator"
 	"github.com/gorilla/mux"
 	"github.com/vulcand/predicate"
 )

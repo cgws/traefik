@@ -3,7 +3,7 @@ package responsemodifiers
 import (
 	"context"
 
-	"github.com/containous/traefik/v2/pkg/log"
+	"github.com/cgws/traefik/v2/pkg/log"
 	"github.com/sirupsen/logrus"
 )
 

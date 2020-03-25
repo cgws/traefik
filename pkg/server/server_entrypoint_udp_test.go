@@ -7,9 +7,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/containous/traefik/v2/pkg/config/static"
-	"github.com/containous/traefik/v2/pkg/types"
-	"github.com/containous/traefik/v2/pkg/udp"
+	"github.com/cgws/traefik/v2/pkg/config/static"
+	"github.com/cgws/traefik/v2/pkg/types"
+	"github.com/cgws/traefik/v2/pkg/udp"
 	"github.com/stretchr/testify/require"
 )
 

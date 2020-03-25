@@ -4,9 +4,9 @@ import (
 	"context"
 	"testing"
 
-	"github.com/containous/traefik/v2/pkg/config/dynamic"
-	"github.com/containous/traefik/v2/pkg/config/runtime"
-	"github.com/containous/traefik/v2/pkg/server/service/udp"
+	"github.com/cgws/traefik/v2/pkg/config/dynamic"
+	"github.com/cgws/traefik/v2/pkg/config/runtime"
+	"github.com/cgws/traefik/v2/pkg/server/service/udp"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -2,7 +2,7 @@ package kv
 
 import (
 	"github.com/abronan/valkeyrie/store"
-	"github.com/containous/traefik/v2/pkg/log"
+	"github.com/cgws/traefik/v2/pkg/log"
 )
 
 type storeWrapper struct {

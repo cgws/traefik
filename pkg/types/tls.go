@@ -8,7 +8,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/containous/traefik/v2/pkg/log"
+	"github.com/cgws/traefik/v2/pkg/log"
 )
 
 // ClientTLS holds TLS specific configurations as client

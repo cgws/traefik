@@ -10,12 +10,12 @@ import (
 	"strings"
 
 	"github.com/BurntSushi/toml"
-	"github.com/containous/traefik/v2/pkg/config/env"
-	"github.com/containous/traefik/v2/pkg/config/flag"
-	"github.com/containous/traefik/v2/pkg/config/generator"
-	"github.com/containous/traefik/v2/pkg/config/parser"
-	"github.com/containous/traefik/v2/pkg/config/static"
-	"github.com/containous/traefik/v2/pkg/log"
+	"github.com/cgws/traefik/v2/pkg/config/env"
+	"github.com/cgws/traefik/v2/pkg/config/flag"
+	"github.com/cgws/traefik/v2/pkg/config/generator"
+	"github.com/cgws/traefik/v2/pkg/config/parser"
+	"github.com/cgws/traefik/v2/pkg/config/static"
+	"github.com/cgws/traefik/v2/pkg/log"
 )
 
 func main() {

@@ -5,8 +5,8 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/containous/traefik/v2/pkg/middlewares/requestdecorator"
-	"github.com/containous/traefik/v2/pkg/testhelpers"
+	"github.com/cgws/traefik/v2/pkg/middlewares/requestdecorator"
+	"github.com/cgws/traefik/v2/pkg/testhelpers"
 	"github.com/gorilla/mux"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

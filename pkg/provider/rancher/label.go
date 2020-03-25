@@ -1,7 +1,7 @@
 package rancher
 
 import (
-	"github.com/containous/traefik/v2/pkg/config/label"
+	"github.com/cgws/traefik/v2/pkg/config/label"
 )
 
 type configuration struct {

@@ -4,7 +4,7 @@ package generator
 import (
 	"reflect"
 
-	"github.com/containous/traefik/v2/pkg/config/parser"
+	"github.com/cgws/traefik/v2/pkg/config/parser"
 )
 
 type initializer interface {

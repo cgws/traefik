@@ -1,6 +1,0 @@
-server1:
-  image: containous/whoami
-  labels:
-    - traefik.enable=true
-    - traefik.http.services.service1.loadbalancer.server.port=80
-    - traefik.http.routers.router1.rule=Host("github.com")

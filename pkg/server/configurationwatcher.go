@@ -6,10 +6,10 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/containous/traefik/v2/pkg/config/dynamic"
-	"github.com/containous/traefik/v2/pkg/log"
-	"github.com/containous/traefik/v2/pkg/provider"
-	"github.com/containous/traefik/v2/pkg/safe"
+	"github.com/cgws/traefik/v2/pkg/config/dynamic"
+	"github.com/cgws/traefik/v2/pkg/log"
+	"github.com/cgws/traefik/v2/pkg/provider"
+	"github.com/cgws/traefik/v2/pkg/safe"
 	"github.com/eapache/channels"
 	"github.com/sirupsen/logrus"
 )

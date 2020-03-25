@@ -5,13 +5,13 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/containous/traefik/v2/pkg/config/dynamic"
-	"github.com/containous/traefik/v2/pkg/config/static"
-	"github.com/containous/traefik/v2/pkg/metrics"
-	"github.com/containous/traefik/v2/pkg/server/middleware"
-	"github.com/containous/traefik/v2/pkg/server/service"
-	th "github.com/containous/traefik/v2/pkg/testhelpers"
-	"github.com/containous/traefik/v2/pkg/tls"
+	"github.com/cgws/traefik/v2/pkg/config/dynamic"
+	"github.com/cgws/traefik/v2/pkg/config/static"
+	"github.com/cgws/traefik/v2/pkg/metrics"
+	"github.com/cgws/traefik/v2/pkg/server/middleware"
+	"github.com/cgws/traefik/v2/pkg/server/service"
+	th "github.com/cgws/traefik/v2/pkg/testhelpers"
+	"github.com/cgws/traefik/v2/pkg/tls"
 	"github.com/stretchr/testify/assert"
 )
 

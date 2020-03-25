@@ -6,10 +6,10 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/containous/traefik/v2/pkg/config/dynamic"
-	"github.com/containous/traefik/v2/pkg/log"
-	"github.com/containous/traefik/v2/pkg/provider/kubernetes/crd/traefik/v1alpha1"
-	"github.com/containous/traefik/v2/pkg/tls"
+	"github.com/cgws/traefik/v2/pkg/config/dynamic"
+	"github.com/cgws/traefik/v2/pkg/log"
+	"github.com/cgws/traefik/v2/pkg/provider/kubernetes/crd/traefik/v1alpha1"
+	"github.com/cgws/traefik/v2/pkg/tls"
 	corev1 "k8s.io/api/core/v1"
 )
 

@@ -8,10 +8,10 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/containous/traefik/v2/pkg/config/static"
-	"github.com/containous/traefik/v2/pkg/ping"
-	"github.com/containous/traefik/v2/pkg/provider/rest"
-	"github.com/containous/traefik/v2/pkg/types"
+	"github.com/cgws/traefik/v2/pkg/config/static"
+	"github.com/cgws/traefik/v2/pkg/ping"
+	"github.com/cgws/traefik/v2/pkg/provider/rest"
+	"github.com/cgws/traefik/v2/pkg/types"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

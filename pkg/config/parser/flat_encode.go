@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/containous/traefik/v2/pkg/types"
+	"github.com/cgws/traefik/v2/pkg/types"
 )
 
 const defaultPtrValue = "false"

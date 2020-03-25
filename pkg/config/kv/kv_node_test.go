@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/abronan/valkeyrie/store"
-	"github.com/containous/traefik/v2/pkg/config/parser"
+	"github.com/cgws/traefik/v2/pkg/config/parser"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

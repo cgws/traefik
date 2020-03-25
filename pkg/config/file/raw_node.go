@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/containous/traefik/v2/pkg/config/parser"
+	"github.com/cgws/traefik/v2/pkg/config/parser"
 )
 
 func decodeRawToNode(data map[string]interface{}, rootName string, filters ...string) (*parser.Node, error) {

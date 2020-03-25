@@ -5,8 +5,8 @@ import (
 	"crypto/tls"
 	"testing"
 
-	"github.com/containous/traefik/v2/pkg/safe"
-	"github.com/containous/traefik/v2/pkg/types"
+	"github.com/cgws/traefik/v2/pkg/safe"
+	"github.com/cgws/traefik/v2/pkg/types"
 	"github.com/go-acme/lego/v3/certcrypto"
 	"github.com/stretchr/testify/assert"
 )

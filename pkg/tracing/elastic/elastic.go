@@ -4,8 +4,8 @@ import (
 	"io"
 	"net/url"
 
-	"github.com/containous/traefik/v2/pkg/log"
-	"github.com/containous/traefik/v2/pkg/version"
+	"github.com/cgws/traefik/v2/pkg/log"
+	"github.com/cgws/traefik/v2/pkg/version"
 	"github.com/opentracing/opentracing-go"
 	"go.elastic.co/apm"
 	"go.elastic.co/apm/module/apmot"

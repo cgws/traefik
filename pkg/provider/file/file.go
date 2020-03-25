@@ -13,11 +13,11 @@ import (
 
 	"github.com/BurntSushi/toml"
 	"github.com/Masterminds/sprig"
-	"github.com/containous/traefik/v2/pkg/config/dynamic"
-	"github.com/containous/traefik/v2/pkg/log"
-	"github.com/containous/traefik/v2/pkg/provider"
-	"github.com/containous/traefik/v2/pkg/safe"
-	"github.com/containous/traefik/v2/pkg/tls"
+	"github.com/cgws/traefik/v2/pkg/config/dynamic"
+	"github.com/cgws/traefik/v2/pkg/log"
+	"github.com/cgws/traefik/v2/pkg/provider"
+	"github.com/cgws/traefik/v2/pkg/safe"
+	"github.com/cgws/traefik/v2/pkg/tls"
 	"gopkg.in/fsnotify.v1"
 	"gopkg.in/yaml.v2"
 )

@@ -7,7 +7,7 @@ import (
 	"crypto/rsa"
 	"crypto/x509"
 
-	"github.com/containous/traefik/v2/pkg/log"
+	"github.com/cgws/traefik/v2/pkg/log"
 	"github.com/go-acme/lego/v3/certcrypto"
 	"github.com/go-acme/lego/v3/registration"
 )

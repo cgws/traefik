@@ -6,7 +6,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/containous/traefik/v2/pkg/config/parser"
+	"github.com/cgws/traefik/v2/pkg/config/parser"
 )
 
 // DefaultNamePrefix is the default prefix for environment variable names.

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/containous/traefik/v2/pkg/log"
+	"github.com/cgws/traefik/v2/pkg/log"
 )
 
 type server struct {

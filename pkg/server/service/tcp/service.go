@@ -7,10 +7,10 @@ import (
 	"net"
 	"time"
 
-	"github.com/containous/traefik/v2/pkg/config/runtime"
-	"github.com/containous/traefik/v2/pkg/log"
-	"github.com/containous/traefik/v2/pkg/server/provider"
-	"github.com/containous/traefik/v2/pkg/tcp"
+	"github.com/cgws/traefik/v2/pkg/config/runtime"
+	"github.com/cgws/traefik/v2/pkg/log"
+	"github.com/cgws/traefik/v2/pkg/server/provider"
+	"github.com/cgws/traefik/v2/pkg/tcp"
 )
 
 // Manager is the TCPHandlers factory

@@ -6,9 +6,9 @@ import (
 
 	corev1 "k8s.io/api/core/v1"
 
-	"github.com/containous/traefik/v2/pkg/config/dynamic"
-	"github.com/containous/traefik/v2/pkg/provider"
-	"github.com/containous/traefik/v2/pkg/tls"
+	"github.com/cgws/traefik/v2/pkg/config/dynamic"
+	"github.com/cgws/traefik/v2/pkg/provider"
+	"github.com/cgws/traefik/v2/pkg/tls"
 	"github.com/stretchr/testify/assert"
 )
 

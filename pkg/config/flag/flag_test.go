@@ -4,9 +4,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/containous/traefik/v2/pkg/config/generator"
-	"github.com/containous/traefik/v2/pkg/config/parser"
-	"github.com/containous/traefik/v2/pkg/types"
+	"github.com/cgws/traefik/v2/pkg/config/generator"
+	"github.com/cgws/traefik/v2/pkg/config/parser"
+	"github.com/cgws/traefik/v2/pkg/types"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )
